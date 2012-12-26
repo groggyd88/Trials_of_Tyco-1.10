@@ -1,0 +1,25 @@
+unreleased Christmas Version (December 25, 2001):
+
+* PORT TO 1.10
+
+* run wmllint
+* scenarios 09-10 - Souless -> Soulless
+* campaign_image.png - overwrite low-res version in /images with /external_data version, and delete external_data folder 
+* scenarios 03, 06, 10 - ifdefs Normal and Hard -> NORMAL, HARD
+* _main.cfg - add directory spellings; accompaning -> accompanying ; data/campaigns -> data/add-ons ; update image= and delete external_data binary path; added porting self-credit; standardized description= line wrap
+* scenario 04 - add local spelling Tritau; strengthed -> strengthened ; succesful -> successful
+* run wmlindent
+* scenario 03 - remove "Death of Kaleh, Nym, or Zhul" lose conditions; add local spellings
+* scenarios 01, 05, 07, 08 - add local spellings
+* scenarios 02, 03, 05-10 - remove superfluous description/userdescription
+* scenarios 09-10 - replace id= with description= in [objective]
+* scenarios 03, 06, 10 - remove recruitment_patterns outside [ai]
+* scenarios 01, 03, 05, 07, 08 - wmlindent converts tabs to spaces for local spellings
+* scenarios 01-03, 05-10 - convert die speaking events to last breath
+* scenario 11 - add local spellings; dissapeared -> disappeared ; add period
+* scenario 09 - add local spelling Jevyan ; Merfolks -> Merfolk's
+
+Version 1.0 (July 10, 2011):
+
+* LAST UPLOAD FOR WESNOTH 1.6
+
