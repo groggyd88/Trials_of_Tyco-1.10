@@ -1,6 +1,12 @@
-unreleased Christmas Version (December 25, 2001):
+internal testing Version (December 27, 2012)
 
-* PORT TO 1.10
+* scenario 10 - add local spelling Gah; Mayhaps -> Mayhap ; Isles -> Isle ; Lich,you -> Lich, you
+* scenario 02 - remove Eloria recruitment_pattern; dialogue changes
+* scenarios 05-10 - remove or change "mixed fighter" in recruitment_pattern, when that usage class is not in the recruit list
+
+unreleased Christmas Version (December 25, 2012):
+
+! PORT TO WESNOTH 1.10
 
 * run wmllint
 * scenarios 09-10 - Souless -> Soulless
@@ -17,9 +23,9 @@ unreleased Christmas Version (December 25, 2001):
 * scenarios 01, 03, 05, 07, 08 - wmlindent converts tabs to spaces for local spellings
 * scenarios 01-03, 05-10 - convert die speaking events to last breath
 * scenario 11 - add local spellings; dissapeared -> disappeared ; add period
-* scenario 09 - add local spelling Jevyan ; Merfolks -> Merfolk's
+* scenario 09 - add local spelling Jevyan; Merfolks -> Merfolk's
 
 Version 1.0 (July 10, 2011):
 
-* LAST UPLOAD FOR WESNOTH 1.6
+! LAST UPLOAD FOR WESNOTH 1.6
 
